@@ -10,5 +10,6 @@ author: Quin tangai - LLUIS
 ---
 
 Quintangai es la pagina de proves del post inicial de github
-Aqui puc ententar fer laguna animalada
+Aqui puc fer la intentar alguna animalada
 
+i tant que si
